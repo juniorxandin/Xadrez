@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 // ========== FUNÇÕES RECURSIVAS ==========
@@ -105,3 +106,6 @@ int main() {
     
     return 0;
 }
+=======
+
+>>>>>>> 0660dd80a25940ac2049d9339f05488bfca79de3
